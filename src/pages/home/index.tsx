@@ -47,19 +47,21 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Hello, my name is {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            I{" "}
+            Desenvolvedor{" "}
               <Text as="span" type="heading1" color="brand1">
-                love
+              Full Stack
               </Text>{" "}
-              creating and{" "}
+              apaixonado por{" "}
               <Text as="span" type="heading1" color="brand1">
-                developing
-              </Text>{" "}
-              projects
+              tecnologia
+              </Text>
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+                Olá e seja muito bem-vindo(a) ao meu portfólio! É com imensa alegria que compartilho aqui um pouco sobre minha paixão e trajetória como Desenvolvedor Full Stack.
+
+Desde jovem, minha curiosidade inata pelo mundo da tecnologia me levou a explorar diversas linguagens de programação, e hoje posso dizer que a programação se tornou muito mais do que uma profissão para mim - é uma verdadeira forma de arte, onde posso dar vida a ideias e criar soluções inovadoras.
+
+Ao longo dos anos, tive a oportunidade de me especializar em tecnologias como Node, Typescript, JavaScript, PHP, React, Next, Git, TypeORM, SQL, PostGreSql, Python entre outras, que me permitem desenvolver diversas aplicações, além de criar sistemas eficientes e dinâmicos. Cada projeto que desenvolvi foi uma oportunidade de aprendizado e crescimento, onde enfrentei desafios e busquei soluções criativas.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
