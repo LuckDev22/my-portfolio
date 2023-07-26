@@ -5,5 +5,4 @@ export const userData = {
   whatsappNumber: "+5561998833019",
   emailUser: "lukki12@gmail.com",
   instagramUser: "__lucki_",
-  facebookUser: "",
 };
